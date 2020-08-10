@@ -1,4 +1,4 @@
-### Hello world! 👨🏻‍💻🌎
+### Hello world!
 
 ```javascript
 
