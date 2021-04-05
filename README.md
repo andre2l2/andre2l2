@@ -1,15 +1,32 @@
-## Hello world!
+# Hi! Happy to se you here.
 
 ```javascript
-const world = new World({
-    name: "Andre Ferreira",
-    email: "delcferreia@gmail.com",
-    info: "For a more open source world"
-});
+const information = {
+    aboutMe() {
+        return {
+            name: "Andre Ferreira",
+            year: 1999,
+            coding: true
+            avoutMe: `Hi! My name is Andre Ferreia, I living in São Paulo, Brazil. I like coding in JS and CSS.My favorite technologys is SASS, TypeScript, Node.js Vue and React.` 
+        }
+    },
+    contact() {
+        return {
+            email: 'delcferreira@gmail.com',
+            twitter: 'andre_2l2'
+        }
+    }
+}
 ```
+---
 
-### About me
-Hello my name is André Ferreira. I create web apps using React and Javascript vanilla, 
-I love a magic of the CSS. <br>
+## My favorite projects
 
-> __I write code so that all people. Not for machines!__
+- <a harf="https://github.com/andre2l2/colors" style="color: #83c5be">Colors</a>
+- <a harf="https://github.com/andre2l2/GameUs" style="color: #83c5be">GameUS</a>
+- <a harf="https://github.com/andre2l2/password-generate" style="color: #83c5be">Password Generate</a>
+
+## Contact Links:
+
+- <a harf="https://twitter.com/andre_2l2" style="color: #83c5be">Twitter</a>
+- <a harf="https://www.linkedin.com/in/andre-ferreira-37180318b/" style="color: #83c5be">Linkedin</a>
