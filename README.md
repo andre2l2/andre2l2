@@ -1,4 +1,4 @@
-# Hi! Happy to se you here.
+# Hi! Happy to see you here.
 
 ```javascript
 const information = {
