@@ -7,7 +7,11 @@ const information = {
             name: "Andre Ferreira",
             year: 1999,
             coding: true
-            avoutMe: `Hi! My name is Andre Ferreia, I living in São Paulo, Brazil. I like coding in JS and CSS.My favorite technologys is SASS, TypeScript, Node.js Vue and React.` 
+            avoutMe: `
+                Hi! My name is Andre Ferreia, I living in São Paulo, 
+                Brazil. I like coding in JS and CSS.My favorite 
+                technologys is SASS, TypeScript, Node.js Vue and React.
+            ` 
         }
     },
     contact() {
