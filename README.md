@@ -1,36 +1,14 @@
-# Hi! Happy to see you here.
-
-```javascript
-const information = {
-    aboutMe() {
-        return {
-            name: "Andre Ferreira",
-            year: 1999,
-            coding: true
-            avoutMe: `
-                Hi! My name is Andre Ferreia, I living in São Paulo, 
-                Brazil. I like coding in JS and CSS.My favorite 
-                technologys is SASS, TypeScript, Node.js Vue and React.
-            ` 
-        }
-    },
-    contact() {
-        return {
-            email: 'delcferreira@gmail.com',
-            twitter: 'andre_2l2'
-        }
-    }
-}
-```
----
-
-## My favorite projects
-
-- <a harf="https://github.com/andre2l2/colors" style="color: #83c5be">Colors</a>
-- <a harf="https://github.com/andre2l2/GameUs" style="color: #83c5be">GameUS</a>
-- <a harf="https://github.com/andre2l2/password-generate" style="color: #83c5be">Password Generate</a>
-
-## Contact Links:
-
-- <a harf="https://twitter.com/andre_2l2" style="color: #83c5be">Twitter</a>
-- <a harf="https://www.linkedin.com/in/andre-ferreira-37180318b/" style="color: #83c5be">Linkedin</a>
+<center>
+    <h2> Hi! Happy to see you here. </h1>
+    <p>
+        My name is Andre Ferreira, I`m JavaScript developer, and I love CSS <3 <br>
+    </p>
+</center>
+<br>
+<center>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" width="50px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/300px-Typescript_logo_2020.svg.png" width="50px">
+    <img src="https://wp-and-react.com/wp-content/uploads/2017/05/react-2.png" width="50px">
+</center>
+<br>
+<hr>
