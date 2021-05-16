@@ -10,5 +10,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/300px-Typescript_logo_2020.svg.png" width="50px">
     <img src="https://wp-and-react.com/wp-content/uploads/2017/05/react-2.png" width="50px">
 </dev>
-<br>
-<hr>
