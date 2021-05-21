@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hi! Happy to see you here. </h1>
+    <h2> Hi I'm so happy to see you here</h1>
     <p>
         My name is Andre Ferreira, I`m JavaScript developer, and I love CSS <3 <br>
     </p>
