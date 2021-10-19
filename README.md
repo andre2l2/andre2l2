@@ -12,9 +12,8 @@
     </a>
 </div>
 <br>
-<br>
 <div align="center">
-    <h2>My skills</h1>
+    <h3>My skills</h1>
 </dev>
 <dev align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" width="50px">
