@@ -4,11 +4,12 @@
         My name is Andre Ferreira, I`m JavaScript/Typescript developer, and I love CSS 💛 <br>
         Developer is machine to transform coffee in code!
     </p>
-    <a href="https://www.linkedin.com/in/andre-ferreira-37180318b/">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5" target="_blank">
-    </a>
-     <a href="https://twitter.com/andre_2l2">
-        <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fandre_2l2" target="_blank">
+    <p>
+        If you need talk-me send a message on twitter, or linkedin :)
+    </p>
+    <br/>
+     <a href="https://twitter.com/andre_2l2" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/andre_2l2?style=social" target="_blank">
     </a>
 </div>
 <br>
