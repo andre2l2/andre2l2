@@ -17,5 +17,5 @@
     <h3>Main Skills</h1>
 </dev>
 <dev align="center">
-    <img src="public/hero.png" width="600px">
+    <img src="public/hero.png" width="400px">
 </dev>
