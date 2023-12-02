@@ -7,12 +7,7 @@
     <p>
         If you need talk-me, send a message on twitter, or linkedin :)
     </p>
-    <br/>
-    <a href="https://twitter.com/andre_2l2" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/andre_2l2?style=social" target="_blank">
-    </a>
 </div>
-<br>
 <div align="center">
     <h3>Main Skills</h1>
 </dev>
